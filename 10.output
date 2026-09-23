@@ -1,0 +1,24 @@
+Enter a sentence: I love this amazing product
+
+Sentiment Analysis Result
+-------------------------
+Positive Words: 2
+Negative Words: 0
+Sentiment: Positive
+
+Enter a sentence: This product is bad and boring
+
+Sentiment Analysis Result
+-------------------------
+Positive Words: 0
+Negative Words: 2
+Sentiment: Negative
+
+Enter a sentence: The product is available today
+
+Sentiment Analysis Result
+-------------------------
+Positive Words: 0
+Negative Words: 0
+Sentiment: Neutral
+
